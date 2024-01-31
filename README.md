@@ -24,7 +24,7 @@
 ## Description
 
 > Photo Gallery with CSS-Grid. <br><br>
-> <img src="https://i.ibb.co/7XXq1R6/photo-3.png">
+> <img src="https://good-pastel.github.io/gridgallery/img/9.png">
 
 <p>&copy Good Pastel. 2024</p>
 
