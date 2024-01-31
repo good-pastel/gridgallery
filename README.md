@@ -1,4 +1,4 @@
-# Galeri Aqila
+# Galeri Aqila - 2
 
 > [[gridgallery](https://good-pastel.github.io/gridgallery)]
 
