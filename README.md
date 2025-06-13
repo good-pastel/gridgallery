@@ -30,6 +30,6 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[linkedin-shield]: https://svgur.com/i/12Gy.svg
+[linkedin-shield]: https://raw.githubusercontent.com/good-pastel/good-pastel.github.io/0081ddd54c76b5249abd15a39df972e47ad32547/img/icons8-linkedin.svg
 [linkedin-url]: https://linkedin.com/in/deviyool
-[aqila]: https://aqilamahes.rf.gd/img/photo-1.jpg/
+[aqila]: https://raw.githubusercontent.com/good-pastel/gridgallery/refs/heads/master/img/aqila%202.png
